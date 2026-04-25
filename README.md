@@ -30,5 +30,7 @@ Fase: Proyecto Terminado
 - [Documentación Final](/docs/SAPO_Documentación.pdf
 )
 
+[Ver video en YouTube](https://youtu.be/VwZTAIybcmY)
 
 ![Logo del proyecto](docs/img/Prototipo_SAPO.png)
+
