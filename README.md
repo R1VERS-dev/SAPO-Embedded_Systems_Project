@@ -29,3 +29,6 @@ S.A.P.O es un sistema embebido basado en ESP32 diseñado para detectar partícul
 Fase: Proyecto Terminado 
 - [Documentación Final](/docs/SAPO_Documentación.pdf
 )
+
+
+![Logo del proyecto](docs/img/Protitipo S.AP.O.png)
