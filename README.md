@@ -31,4 +31,4 @@ Fase: Proyecto Terminado
 )
 
 
-![Logo del proyecto](docs/img/Protitipo S.AP.O.png)
+![Logo del proyecto](docs/img/Prototipo_SAPO.png)
